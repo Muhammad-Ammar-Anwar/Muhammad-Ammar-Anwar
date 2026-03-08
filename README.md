@@ -134,7 +134,8 @@
 
 <div align="center">
 
-<img width="68%" src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Ammar-Anwar&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00d4ff"/>
+<!-- ✅ FIXED: changed from nirzak-streak-stats.vercel.app to streak-stats.demolab.com (official & reliable) -->
+<img width="68%" src="https://streak-stats.demolab.com?user=Muhammad-Ammar-Anwar&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff"/>
 
 </div>
 
@@ -162,10 +163,17 @@
 
 </div>
 
+<!-- ✅ SNAKE FIX: Follow these 3 steps to activate the snake -->
+<!-- STEP 1: Create .github/workflows/snake.yml using the code below -->
+<!-- STEP 2: Go to Settings → Actions → General → set "Read and write permissions" → Save -->
+<!-- STEP 3: Go to Actions tab → Generate Snake Animation → Run workflow → wait 1 min ✅ -->
+
 <details>
 <summary>⚙️ <b>Snake Setup — click to expand</b></summary>
 
-Create `.github/workflows/snake.yml` in this repo:
+**3 steps to activate:**
+
+**Step 1** — Create `.github/workflows/snake.yml` in this repo with this content:
 
 ```yaml
 name: Generate Snake Animation
@@ -201,7 +209,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to **Actions → Generate Snake Animation → Run workflow** to trigger it once manually.
+**Step 2** — Go to repo **Settings → Actions → General → Workflow permissions → select "Read and write permissions" → Save**
+
+**Step 3** — Go to **Actions tab → Generate Snake Animation → Run workflow** ✅
 
 </details>
 
