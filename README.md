@@ -60,6 +60,9 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=crewai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7B2FBE?style=for-the-badge&logo=anthropic&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -96,6 +99,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
@@ -119,6 +124,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-FF6B35?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0098FF?style=for-the-badge&logo=codeium&logoColor=white)
 
 ---
 
@@ -155,65 +163,10 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/Muhammad-Ammar-Anwar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/Muhammad-Ammar-Anwar/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/Muhammad-Ammar-Anwar/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/snake_animation/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
-<!-- ✅ SNAKE FIX: Follow these 3 steps to activate the snake -->
-<!-- STEP 1: Create .github/workflows/snake.yml using the code below -->
-<!-- STEP 2: Go to Settings → Actions → General → set "Read and write permissions" → Save -->
-<!-- STEP 3: Go to Actions tab → Generate Snake Animation → Run workflow → wait 1 min ✅ -->
-
-<details>
-<summary>⚙️ <b>Snake Setup — click to expand</b></summary>
-
-**3 steps to activate:**
-
-**Step 1** — Create `.github/workflows/snake.yml` in this repo with this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - name: push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Step 2** — Go to repo **Settings → Actions → General → Workflow permissions → select "Read and write permissions" → Save**
-
-**Step 3** — Go to **Actions tab → Generate Snake Animation → Run workflow** ✅
-
-</details>
 
 ---
 
