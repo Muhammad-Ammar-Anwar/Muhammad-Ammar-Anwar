@@ -134,14 +134,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ammar-Anwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ammar-Anwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
 <!-- ✅ FIXED: changed from nirzak-streak-stats.vercel.app to streak-stats.demolab.com (official & reliable) -->
 <img width="68%" src="https://streak-stats.demolab.com?user=Muhammad-Ammar-Anwar&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff"/>
 
