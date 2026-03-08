@@ -140,22 +140,22 @@
 </div>
 
 ---
+## 🐍 Contribution 
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/snake_animation/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+
+---
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
 [![Ammar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ammar-Anwar&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/snake_animation/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
