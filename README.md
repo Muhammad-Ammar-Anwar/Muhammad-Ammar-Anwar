@@ -144,7 +144,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/snake_animation/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Muhammad-Ammar-Anwar/Animation/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
