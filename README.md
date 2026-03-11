@@ -70,6 +70,13 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![nVIDIA CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![cv2](https://img.shields.io/badge/cv2-OpenCV-blue?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-orange?style=for-the-badge)
+![SLM](https://img.shields.io/badge/SLM-Small%20Language%20Models-green?style=for-the-badge)
+![VLM](https://img.shields.io/badge/VLM-Vision%20Language%20Models-0A66C2?style=for-the-badge)
 
 ### 🌐 Frontend, Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -126,7 +133,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Kiro](https://img.shields.io/badge/Kiro-FF6B35?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0098FF?style=for-the-badge&logo=codeium&logoColor=white)
 
 ---
 
