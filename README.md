@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Muhammad Ammar Anwar
+# Hi 👋, I'm Ammar
 
 ### Ai Engineer | Backend Developer
 
