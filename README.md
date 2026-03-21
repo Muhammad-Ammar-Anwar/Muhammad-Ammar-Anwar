@@ -29,10 +29,10 @@
 
 ## 🧠 About Me
 
-- 🔭 I'm currently working on **Agentic AI systems**, deep learning models, and LLM-powered production applications
-- 👯 I'm looking to collaborate on projects related to **AI, Machine Learning, NLP, and AI-powered automation systems**
+- 🔭 I'm currently working on **Agentic AI systems**, Deep learning models, and LLM powered applications
+- 👯 I'm looking to collaborate on projects related to **AI, Machine Learning, NLP, and AI Automation**
 - 🤝 I'm looking for guidance on improving my **AI engineering skills** and learning to build and deploy scalable AI systems
-- 🌱 I'm currently learning **Agentic AI, MCP Servers**, and backend development using **FastAPI and Django**
+- 🌱 I'm currently learning **Agentic AI, MCP Servers**, and Backend Development using **FastAPI, Flask & Django**
 - 💬 Ask me about **Python, LangChain, LangGraph, RAG systems, MLOps, TensorFlow/Keras, and building AI applications**
 - ⚡ Fun fact: I enjoy experimenting with new AI tools and building automation systems
 
