@@ -136,14 +136,14 @@
 
 ---
 
+
+
+<!-- <div align="center">
 ## 📊 GitHub Stats
 
-<div align="center">
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ammar-Anwar&theme=tokyonight&hide_border=true" />
 
-<!-- ✅ FIXED: changed from nirzak-streak-stats.vercel.app to streak-stats.demolab.com (official & reliable) -->
-<img width="68%" src="https://streak-stats.demolab.com?user=Muhammad-Ammar-Anwar&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff"/>
-
-</div>
+</div> -->
 
 ---
 ## 🐍 Contribution 
